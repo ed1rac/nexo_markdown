@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: "⚡ NexoMD — Editor Markdown Híbrido Nativo"
+description: "Editor Markdown desktop de alta performance construído com Rust, Tauri v2, Vue 3 e TypeScript."
+kramdown:
+  parse_block_html: true
