@@ -1,26 +1,22 @@
 <div align="center">
-
-# ⚡ NexoMD
-
-**Editor Markdown Híbrido Nativo de Alta Performance (Rust + Tauri v2 + Vue 3 + TypeScript)**
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
-[![Rust](https://img.shields.io/badge/Core-Rust%20%2B%20Ropey-orange.svg)](https://www.rust-lang.org/)
-[![Tauri v2](https://img.shields.io/badge/Desktop-Tauri%20v2-24c8db.svg)](https://v2.tauri.app/)
-[![Vue 3](https://img.shields.io/badge/UI-Vue%203.5%20%2B%20TS-42b883.svg)](https://vuejs.org/)
-[![Vercel App](https://img.shields.io/badge/Demo%20Online-Vercel%20App-000000?logo=vercel)](https://nexomarkdown.vercel.app/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Web-222222?logo=github)](https://ed1rac.github.io/nexo-md/)
-[![Releases](https://img.shields.io/badge/Releases-v0.2.0%20Windows%20%7C%20Linux%20%7C%20macOS-success?logo=github)](https://github.com/ed1rac/nexo-md/releases)
-[![Autor](https://img.shields.io/badge/Autor-Edkallenn%20(%40ed1rac)-purple.svg)](https://github.com/ed1rac)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-edkallenn-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/edkallenn)
-
-*Roda **nativamente** em Desktop (Windows, Linux e macOS) com binário ultraleve e **também direto no navegador Web**!*
-
-### 🌐 Acesse Agora no Navegador (Sem Instalar Nada):
-- 🚀 **App Online na Vercel**: **[https://nexomarkdown.vercel.app/](https://nexomarkdown.vercel.app/)**
-- 🌍 **Espelho no GitHub Pages**: **[https://ed1rac.github.io/nexo-md/](https://ed1rac.github.io/nexo-md/)**
-- 📦 **Downloads Nativos (Windows, Linux e macOS)**: **[Página Oficial de Releases (`v0.2.0`)](https://github.com/ed1rac/nexo-md/releases)**
-
+  <p>
+    <a href="./LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"></a>
+    <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Core-Rust%20%2B%20Ropey-orange.svg" alt="Rust"></a>
+    <a href="https://v2.tauri.app/"><img src="https://img.shields.io/badge/Desktop-Tauri%20v2-24c8db.svg" alt="Tauri v2"></a>
+    <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/UI-Vue%203.5%20%2B%20TS-42b883.svg" alt="Vue 3"></a>
+    <a href="https://nexomarkdown.vercel.app/"><img src="https://img.shields.io/badge/Demo%20Online-Vercel%20App-000000?logo=vercel" alt="Vercel App"></a>
+    <a href="https://ed1rac.github.io/nexo-md/"><img src="https://img.shields.io/badge/GitHub%20Pages-Live%20Web-222222?logo=github" alt="GitHub Pages"></a>
+    <a href="https://github.com/ed1rac/nexo-md/releases"><img src="https://img.shields.io/badge/Releases-v0.2.0%20Windows%20%7C%20Linux%20%7C%20macOS-success?logo=github" alt="Releases"></a>
+    <a href="https://github.com/ed1rac"><img src="https://img.shields.io/badge/Autor-Edkallenn%20(%40ed1rac)-purple.svg" alt="Autor"></a>
+    <a href="https://buymeacoffee.com/edkallenn"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-edkallenn-FFDD00?logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  </p>
+  <h1>⚡ NexoMD</h1>
+  <p><strong>Editor Markdown Híbrido Nativo de Alta Performance (Rust + Tauri v2 + Vue 3 + TypeScript)</strong></p>
+  <p>*Roda **nativamente** em Desktop (Windows, Linux e macOS) com binário ultraleve e **também direto no navegador Web**!*</p>
+  <h3><em>🌐 Acesse Agora no Navegador (Sem Instalar Nada):</em></h3>
+  <p>- 🚀 **App Online na Vercel**: **[https://nexomarkdown.vercel.app/](https://nexomarkdown.vercel.app/)**</p>
+  <p>- 🌍 **Espelho no GitHub Pages**: **[https://ed1rac.github.io/nexo-md/](https://ed1rac.github.io/nexo-md/)**</p>
+  <p>- 📦 **Downloads Nativos (Windows, Linux e macOS)**: **[Página Oficial de Releases (`v0.2.0`)](https://github.com/ed1rac/nexo-md/releases)**</p>
 </div>
 
 ---
